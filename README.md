@@ -1,1 +1,1 @@
-# Calculator
+I've created a sleek and user-friendly calculator using HTML, CSS, and JavaScript! This calculator isn't just functional—it’s designed with style in mind, featuring both light mode and dark mode options. Whether you prefer a bright, clean interface or a cool, dark one, this calculator has got you covered. It's a simple yet powerful tool for quick calculations, making it perfect for everyday use.
